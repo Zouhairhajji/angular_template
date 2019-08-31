@@ -1,7 +1,5 @@
 import { Component } from '@angular/core';
 
-let a : string;
-
 
 
 @Component({
